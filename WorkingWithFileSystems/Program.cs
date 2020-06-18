@@ -45,7 +45,8 @@ namespace WorkingWithFileSystems
         {
             Program.OutputFileSystemInfo();
 
-            WorkWithDrives();            
+            WorkWithDrives(); 
+                       
         }
     }
 }
