@@ -1,0 +1,13 @@
+D:\Chapter09\WorkWithFiles\bin\Debug\netcoreapp3.1\WorkWithFiles.exe
+D:\Chapter09\WorkWithFiles\bin\Debug\netcoreapp3.1\WorkWithFiles.deps.json
+D:\Chapter09\WorkWithFiles\bin\Debug\netcoreapp3.1\WorkWithFiles.runtimeconfig.json
+D:\Chapter09\WorkWithFiles\bin\Debug\netcoreapp3.1\WorkWithFiles.runtimeconfig.dev.json
+D:\Chapter09\WorkWithFiles\bin\Debug\netcoreapp3.1\WorkWithFiles.dll
+D:\Chapter09\WorkWithFiles\bin\Debug\netcoreapp3.1\WorkWithFiles.pdb
+D:\Chapter09\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.csprojAssemblyReference.cache
+D:\Chapter09\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.AssemblyInfoInputs.cache
+D:\Chapter09\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.AssemblyInfo.cs
+D:\Chapter09\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.csproj.CoreCompileInputs.cache
+D:\Chapter09\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.dll
+D:\Chapter09\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.pdb
+D:\Chapter09\WorkWithFiles\obj\Debug\netcoreapp3.1\WorkWithFiles.genruntimeconfig.cache
